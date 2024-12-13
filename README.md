@@ -15,7 +15,7 @@ The Employee Management System is designed to streamline and automate the manage
 * Find Employees: Search for employees by various criteria, using both standard and AJAX-enabled forms for dynamic results.
 
 
-##Steps taken: 
+## Steps taken: 
 * Created a Virtual machine
 * Installed Ubuntu
 * Configured Ubuntu (upgrade, update, configured for two network connections)
